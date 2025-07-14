@@ -1,2 +1,3 @@
 # cordova-plugin-change-appname
-cordova-plugin-change-displayname Copy
+Cordova plugin that allows you to change the display name of your app
+Copy of cordova-plugin-change-displayname
